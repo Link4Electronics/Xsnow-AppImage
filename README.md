@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Xsnow-AppImage/releases/latest) | [Click here](https://www.ratrabbit.nl/ratrabbit/xsnow) |
+| [Click here](https://github.com/pkgforge-dev/Xsnow-AppImage/releases/latest) | [Click here](https://sourceforge.net/projects/xsnow) |
 
 </div>
 
