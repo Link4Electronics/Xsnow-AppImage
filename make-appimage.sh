@@ -12,6 +12,7 @@ export ICON=/usr/share/pixmaps/xsnow.svg
 export DESKTOP=/usr/share/applications/xsnow.desktop
 export STARTUPWMCLASS=Xsnow
 export DEPLOY_GTK=1
+export GTK_DIR=gtk-3.0
 export ALWAYS_SOFTWARE=1
 
 # Deploy dependencies
